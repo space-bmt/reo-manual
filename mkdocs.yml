@@ -7,7 +7,7 @@ nav:
   - Downloads: downloads.md
   - User Guide: user-guide/index.md
   - Contact: contact.md
-  - Blog: blog/index.md
+  # - Blog: blog/index.md
 
 theme:
   name: material
@@ -83,7 +83,13 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://www.instagram.com/spacebiomedtech/
 
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
 plugins:
-  - blog
+  # - blog
   - privacy
   - search

@@ -4,9 +4,9 @@ The desktop control software of the REO amplifier device is available for
 Windows and macOS (ARM) at the moment. Click on one of the buttons below to download
 the installer for your operating system.
 
-[Download for Windows :fontawesome-brands-windows:](/assets/downloads/0.1.0/REO_recorder_0.1.0_x64_en-US.exe){ .md-button }
+[Download for Windows :fontawesome-brands-windows:](/assets/downloads/0.1.0/REO_recorder_0.1.0_x64_en-US.msi){ .md-button }
 
-[Download for macOS (ARM) :fontawesome-brands-apple:](/assets/downloads/0.1.0/REO_recorder_0.1.0_aarch64.exe){ .md-button }
+[Download for macOS (ARM) :fontawesome-brands-apple:](/assets/downloads/0.1.0/REO_recorder_0.1.0_aarch64.dmg){ .md-button }
 
 ## Installation on Windows
 

@@ -3,9 +3,9 @@ site_url: https://reo.biomedtech.space
 
 nav:
   - Home: index.md
-  - Getting Started: getting-started.md
+  # - Getting Started: getting-started.md
   - Downloads: downloads.md
-  - User Guide: user-guide/index.md
+  # - User Guide: user-guide/index.md
   - Contact: contact.md
   # - Blog: blog/index.md
 
